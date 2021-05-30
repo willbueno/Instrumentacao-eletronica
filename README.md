@@ -1,6 +1,7 @@
 # Instrumentacao-eletronica
 
 Projeto final da disciplina de Instrumentação Eletrônica (UFSM).
+
 Integrantes: Andrei Matiazi Schopf, Davi da Silva Calil, Guilherme Pando Wollmeister, Pedro Medeiros de Assis Brasil, William Rocha
 
 Para que seja possível sabermos o valor de alguma grandeza física do mundo real,
